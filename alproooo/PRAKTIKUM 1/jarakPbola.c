@@ -6,9 +6,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//Kamus//
 #define g 9.8
 int main(void) {
+//Kamus//
    float velocity; //kecepatan awal//
     float time; //waktu tempuh//
     float jarak; //jarak yang ditempuh//
