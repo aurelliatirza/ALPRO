@@ -1,14 +1,15 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
 #include<stdio.h>
 #include<stdlib.h>
-
-
-
+//Kamus//
 int main(void) {
-    float m;
-    float v0;
-    float r;
-    float F;
-
+    float m; //massa//
+    float v0; //kecepatan awal//
+    float r; //jari-jari//
+    float F; //gaya sentripetal//
+//Algoritma//
     printf("masukkan nilai massa (kg): ");
     scanf("%f", &m);
     printf("\nmasukkan nilai kecepatan (m/s): ");
