@@ -1,6 +1,8 @@
 //Nama: Tirza Aurellia Wijaya//
 //NIM: 24060122130047//
 //Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan jarak parabola yang ditempuh sebuah bola//
+
 #include<stdio.h>
 #include<stdlib.h>
 
