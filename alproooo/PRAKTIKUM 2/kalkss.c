@@ -8,9 +8,9 @@
 
 int main(void){
 //Kamus//
-    int A;
-    int B;
-    char huruf;
+    int A; //bilangan 1//
+    int B; //bilangan 2//
+    char huruf; //operasi yang akan dijalankan//
     int a;
     int b;
     int c;
