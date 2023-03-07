@@ -1,6 +1,7 @@
 //Nama: Tirza Aurellia Wijaya//
 //NIM: 24060122130047//
 //Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan jarak dari gerak lurus berubah beraturan//
 
 //Kamus//
 
