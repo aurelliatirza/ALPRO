@@ -5,12 +5,13 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//Kamus//
+
 #define phi 3.1415
 int main(void) {
-    float r;
-    float Vb;
-    float Vk;
+//Kamus//
+    float r;//jari-jari lingkaran//
+    float Vb; //volume bola//
+    float Vk; //volume kerucut//
 //Algoritma//
     printf("masukkan nilai jari-jari lingkaran (m): ");
     scanf("%f", &r);
