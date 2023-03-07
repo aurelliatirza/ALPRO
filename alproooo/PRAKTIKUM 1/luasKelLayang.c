@@ -5,14 +5,15 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//Kamus//
+
 int main(void) {
-    float s1;
-    float s2;
-    float d1;
-    float d2;
-    float Kel;
-    float Luas;
+//Kamus//
+    float s1; //sisi layang-layang 1//
+    float s2; //sisi layang-layang 2//
+    float d1; //diameter layang-layang 1//
+    float d2; //diameter layang-layang 2//
+    float Kel; //keliling layang-layang//
+    float Luas; //luas layang-layang//
 //Algoritma//
     printf("masukkan nilai sisi layang-layang 1 (m): ");
     scanf("%f", &s1);
