@@ -5,9 +5,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Kamus//
+
 int main(void){
-    int bilangan;
+//Kamus//
+    int bilangan; //bilangan yang akan dicek//
 //Algoritma//
     printf("masukkan nilai bilangan: ");
     scanf("%d", &bilangan);
