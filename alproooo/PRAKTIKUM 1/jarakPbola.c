@@ -1,13 +1,16 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
 #include<stdio.h>
 #include<stdlib.h>
 
-
+//Kamus//
 #define g 9.8
 int main(void) {
-   float velocity;
-    float time;
-    float jarak;
-
+   float velocity; //kecepatan awal//
+    float time; //waktu tempuh//
+    float jarak; //jarak yang ditempuh//
+//Algoritma//
     printf("masukkan nilai kecepatan awal (m/s): ");
     scanf("%f", &velocity);
     printf("\nmasukkan nilai waktu (s): ");
