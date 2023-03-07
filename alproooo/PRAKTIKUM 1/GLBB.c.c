@@ -1,20 +1,20 @@
-//Nama: Tirza Aurellia Wijaya
-//NIM: 24060122130047
-//Hari: Senin, 6 Maret 2023
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
 
-//Kamus
+//Kamus//
 
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-    float s; //s adalah jarak yang ditempuh
-    float v0; //v0 adalah nilai kecepatan awal
-    float a; //a adalah percepatan
-    float t; //t adalah waktu tempuh
+    float s; //s adalah jarak yang ditempuh//
+    float v0; //v0 adalah nilai kecepatan awal//
+    float a; //a adalah percepatan//
+    float t; //t adalah waktu tempuh//
 
-//Algoritma
+//Algoritma//
 
     printf("masukkan nilai kecepatan awal: ");
     scanf("%f", &v0);
