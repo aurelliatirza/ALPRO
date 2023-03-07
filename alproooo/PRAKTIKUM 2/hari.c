@@ -1,9 +1,14 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan nama hari berdasarkan sebuah inputan berupa bilangan integer//
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus//
 int main(void){
     int nomer;
-
+//Algoritma//
     printf("masukkan nomer hari: ");
     scanf("%d", &nomer);
 
