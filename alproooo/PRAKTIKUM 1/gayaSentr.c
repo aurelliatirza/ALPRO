@@ -5,8 +5,9 @@
 
 #include<stdio.h>
 #include<stdlib.h>
-//Kamus//
+
 int main(void) {
+//Kamus//
     float m; //massa//
     float v0; //kecepatan awal//
     float r; //jari-jari//
