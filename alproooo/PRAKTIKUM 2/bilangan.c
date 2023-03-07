@@ -1,9 +1,14 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan jenis bilangan (integer atau bukan)//
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus//
 int main(void){
     int bilangan;
-
+//Algoritma//
     printf("masukkan nilai bilangan: ");
     scanf("%d", &bilangan);
 
