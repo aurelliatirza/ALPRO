@@ -1,12 +1,16 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan jenis segitiga//
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(void){
-
+//Kamus//
     int a;
     int b;
     int c;
-
+//Algoritma//
     printf ("masukkan nilai sisi segitiga 1: ");
     scanf ("%d", &a);
 
