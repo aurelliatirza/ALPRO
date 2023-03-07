@@ -7,9 +7,9 @@
 
 int main(void){
 //Kamus//
-    int a;
-    int b;
-    int c;
+    int a;//sisi segitiga 1//
+    int b; //sisi segitiga 2//
+    int c; //sisi segitiga 3//
 //Algoritma//
     printf ("masukkan nilai sisi segitiga 1: ");
     scanf ("%d", &a);
