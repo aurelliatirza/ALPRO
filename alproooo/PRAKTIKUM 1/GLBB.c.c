@@ -3,13 +3,12 @@
 //Hari: Senin, 6 Maret 2023//
 //Deskripsi: menentukan jarak dari gerak lurus berubah beraturan//
 
-//Kamus//
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main(){
+//Kamus//
     float s; //s adalah jarak yang ditempuh//
     float v0; //v0 adalah nilai kecepatan awal//
     float a; //a adalah percepatan//
