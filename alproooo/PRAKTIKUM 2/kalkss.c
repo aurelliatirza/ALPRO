@@ -1,8 +1,13 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan hasil operasi yang berdasarkan sebuah inputan berupa karakter atau huruf//
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void){
 
+int main(void){
+//Kamus//
     int A;
     int B;
     char huruf;
@@ -12,7 +17,7 @@ int main(void){
     int e;
     int f;
     float d;
-
+//Algoritma//
     printf ("masukkan nilai bilangan 1: ");
     scanf ("%d", &A);
 
