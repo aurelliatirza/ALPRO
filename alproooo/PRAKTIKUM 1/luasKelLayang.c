@@ -1,3 +1,11 @@
+//Nama: Tirza Aurellia Wijaya//
+//NIM: 24060122130047//
+//Hari: Senin, 6 Maret 2023//
+//Deskripsi: menentukan luas dan keliling layang-layang//
+#include<stdio.h>
+#include<stdlib.h>
+
+//Kamus//
 int main(void) {
     float s1;
     float s2;
@@ -5,7 +13,7 @@ int main(void) {
     float d2;
     float Kel;
     float Luas;
-
+//Algoritma//
     printf("masukkan nilai sisi layang-layang 1 (m): ");
     scanf("%f", &s1);
     printf("\nmasukkan nilai sisi layang-layang 2 (m): ");
