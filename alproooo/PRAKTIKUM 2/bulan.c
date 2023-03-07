@@ -5,9 +5,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Kamus//
+
 int main(void){
-    int nomer;
+//Kamus//
+    int nomer;//indeks yang akan dicek//
 //Algoritma//
     printf("masukkan nomer bulan: ");
     scanf("%d", &nomer);
