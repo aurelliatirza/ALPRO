@@ -5,13 +5,13 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
+//Kamus//
 #define phi 3.1415
 int main(void) {
     float r;
     float Vb;
     float Vk;
-
+//Algoritma//
     printf("masukkan nilai jari-jari lingkaran (m): ");
     scanf("%f", &r);
     printf("kontanta untuk lingkaran ialah %f\n", phi);
